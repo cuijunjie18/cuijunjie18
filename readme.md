@@ -47,12 +47,12 @@
 
 I regularly share technical insights on:
 - [Personal Blog](https://cuijunjie18.github.io/blog) (Algorithm optimizations, CV tricks)
-- [Zhihu](https://www.zhihu.com/people/cuijunjie18) (Chinese tech articles)
+- [Zhihu](https://www.zhihu.com/people/jun-jie-36-67) (Chinese tech articles)
 
 ## 📫 How to Reach Me
 
 📧 Email: 2871843852@qq.com  
-📱 WeChat: cuijunjie18  
+📱 WeChat: cjj2871843852  
 💼 LinkedIn: [Junjie Cui](https://www.linkedin.com/in/junjie-cui-18)
 
 ![Junjie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuijunjie18&show_icons=true&theme=radical)
