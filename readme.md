@@ -57,4 +57,4 @@ I regularly share technical insights on:
 
 ![Junjie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuijunjie18&show_icons=true&theme=radical)
 
-- visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=muying&color=5865f2)
+- visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=cuijunjie18&color=5865f2)
